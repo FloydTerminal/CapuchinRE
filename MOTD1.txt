@@ -3,8 +3,8 @@ HELLO CAPUCHINS!
 MAX PLAYER COUNT PER SERVER IS NOW 20!
 PLAYER BOARD STILL HAS A MAX OF 10 FOR PERFORMANCE
 
-
-
+Switched backend service from playfab to a better service
+(sorry if buggy)
+s
 Post Processing now on computer (settings)
-
 For legal or player deletion email: jimmy.be.viben41@proton.me
