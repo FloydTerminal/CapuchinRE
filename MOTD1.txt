@@ -2,6 +2,6 @@ HELLO CAPUCHINS!
 
 MAX PLAYER COUNT PER SERVER IS NOW 15!
 
-Broken controller Support.
+Post Processing now on computer (settings)
 
 For legal or player deletion email: jimmy.be.viben41@proton.me
